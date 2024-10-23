@@ -6,6 +6,8 @@ Nomad Coder의 selenium 강의 실습을 위한 repo
 
 pipenv를 사용하여 패키지 관리
 
+- python version 3.12 사용
+
 - 설치한 패키지 목록
 
 ```bash
